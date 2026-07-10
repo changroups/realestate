@@ -1,0 +1,25 @@
+HOW TO ADD PROJECT GALLERY IMAGES
+=================================
+
+Very simple method:
+
+1. Open this folder:
+   assets/images/projects/
+
+2. Copy your project photos into this folder.
+
+3. Rename photos like this:
+   project-01.jpg
+   project-02.jpg
+   project-03.jpg
+   project-04.jpg
+   project-05.jpg
+   project-06.jpg
+
+4. Refresh the website.
+
+Important:
+- Use JPG if possible.
+- Keep numbering continuous.
+- You can add up to project-30.jpg.
+- No need to edit js/gallery-data.js for this easy method.
